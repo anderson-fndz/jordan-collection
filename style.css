@@ -221,6 +221,7 @@ html {
         height: 25px;
         border-radius: 5px;
         border: 1px solid gray;
+        color: #4c0118;
     }
 
     .tamanhos button.plus{
